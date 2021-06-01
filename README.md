@@ -24,3 +24,7 @@ Have fun! 👩‍💻🥳
 ## Slides
 
 [Slides of the workshop](https://docs.google.com/presentation/d/e/2PACX-1vTdBh3EbrJpXcmcY7Mu8TLMYZ-zsIMff4WcK91_nJcewbzOORj3_xtqIOpBPCh3O0Plf9SK53h3CQer/pub?start=false&loop=false&delayms=3000)
+
+---
+
+Link to presentation recording at 👉 [automateIT](https://youtu.be/xzj8TfrJ-eM) channel.
